@@ -5,3 +5,5 @@
       ## Uporaba
 
    Odpri index.html v brskalniku.
+   
+   Primer
