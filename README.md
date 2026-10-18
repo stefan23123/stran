@@ -5,5 +5,6 @@
       ## Uporaba
 
    Odpri index.html v brskalniku.
+   Test s GitHuba
    
    Primer
