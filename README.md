@@ -1,11 +1,10 @@
-   # Moja stran
+# Moja stran
 
-   Testni projekt za vajo z Gitom.
-   
-      ## Uporaba
+## Opis
+Preprosta HTML stran, narejena za vajo z Gitom.
 
-   Odpri index.html v brskalniku.
-   Test s GitHuba
-   
-   Primer
-Nova funkcija X
+## Uporaba
+Odpri datoteko index.html v brskalniku.
+
+## Avtor
+Stefan Ckonjevic
